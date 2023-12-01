@@ -1,8 +1,0 @@
-descargar el git bash
-para clonar :
-git clone https://github.com/showcba/showcba.git
-
-
-git add .
-git commit -m "mensaje de lo realizado"
-git push 
